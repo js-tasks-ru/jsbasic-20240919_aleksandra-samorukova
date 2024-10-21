@@ -9,4 +9,3 @@ function toggleText() {
     }
   });
 }
-toggleText();
